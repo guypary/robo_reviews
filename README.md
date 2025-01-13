@@ -3,7 +3,7 @@ There are three files includ a presentation file and a generated training datase
   1. Review classifacation
   2. Category clustering
   3. Model training and testing
-  4. Training data set file
+  4. Training data set file ( is arond 210mb of data and cannot be uploaded to github)
 Start with Review classifacation to classify negative, positive, neutrla reviews.
 Proceed with category clsutering
 Finally combine the results in one traning file and proceed wti training the model
